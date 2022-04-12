@@ -1,16 +1,14 @@
-### Hi there 👋
+### 欢迎来到干净T松鼠的Github！ 👋
 
-<!--
-**Andy17269/Andy17269** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+❤️ 爱好：
+- 🏃 喜欢跑步
+- 🏀 喜欢篮球
+- 🏸 羽毛球新手
+- 🤔 一个计算机新手
+- 💬 不要面子的提建议
+- 🌐 博客：<a href="https://wenlei.club">干净T松鼠的博客</a>
+- 📫 me@wenlei.club
+- 🖥️ 只会点Web语言的小学生
+- ⚡ 奇思妙想
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
