@@ -4,7 +4,7 @@
 
 ❤️ 爱好：
 - 🤔 一个计算机新手
-- 🌐 博客：<a href="https://blog.wenlei.club">干净T松鼠的博客</a>
-- 📫 me@wenlei.club
+- 🌐 博客：<a href="https://wenlei.club">干净T松鼠的博客</a>
+- 📫 andy17269@qq.com
 - ⚡ 奇思妙想
-- 📚 正学习JavaScript和React
+- 📚 正学习HTML/CSS/JS和C++
