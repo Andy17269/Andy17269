@@ -1,6 +1,6 @@
 ### 你好，欢迎来到这里 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)](https://github.com/ryo-ma/github-profile-trophy)
 
 ❤️ 爱好：
 - 🤔 一个计算机新手
