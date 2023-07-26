@@ -1,4 +1,4 @@
-## 你好，欢迎来到这里 👋
+## 👋 你好
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)](https://github.com/ryo-ma/github-profile-trophy)
 
