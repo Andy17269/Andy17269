@@ -1,10 +1,10 @@
-## 👋 你好
+## 👋 Hey!
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)](https://github.com/ryo-ma/github-profile-trophy)
 
-### 关于我：
-- 🤔 一个计算机新手
-- 🌐 我的博客：<a href="https://wenlei.club">WenBlog</a>
-- 📫 andy17269@qq.com
-- ⚡ 奇思妙想
-- 📚 正学习C++、HTML和CSS
+## About Me
+- 🤔 A newbie in programming
+- 🌐 My blog: <a href="https://wenlei.top">WenBlog</a>
+- 📫 Email: <a href="mailto:andywen@wenlei.top">andywen@wenlei.top</a>
+- ⚡ Thinking of some wonderful ideas
+- 📚 Currently learning Python and HTML
