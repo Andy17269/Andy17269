@@ -1,6 +1,6 @@
 ## 👋 Hey!
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)](My Profile)
 
 ## About Me
 - 🤔 A newbie in programming
