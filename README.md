@@ -1,4 +1,4 @@
-## 👋 Hey!
+## 👋 Hello! 你好！
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=andy17269)]()
 
